@@ -1,1 +1,5 @@
 --colour
+# To run RSpec and Spork with Autotest
+#    we need to configure RSpec to use the --drb option by default
+--drb
+
